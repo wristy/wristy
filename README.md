@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wristy
 - 👀 I’m interested in Machine Learning and Human-centric AI
 - 🌱 I’m currently learning Programming Languages and taking the fast.ai course
-- 📫 How to reach me wristy8@gmail.com
+- 📫 How to reach me keweizhang00@gmail.com
 
 <!---
 wristy/wristy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
