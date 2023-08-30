@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wristy
+- 👋 Hi, I’m Keane
 - 👀 I’m interested in Machine Learning and Human-centric AI
-- 🌱 I’m currently learning Programming Languages and taking the fast.ai course
+- 🌱 I’m currently learning UX design and Machine learning
 - 📫 How to reach me keweizhang00@gmail.com
 
 <!---
